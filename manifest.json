@@ -1,0 +1,25 @@
+{
+  "name": "pw8ball",
+  "short_name": "pw8ball",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "magenta",
+  "description": "Make decisions with a shake",
+  "icons": [{
+    "src": "https://i.imgur.com/xxLgYER.jpg",
+    "type": "image/png",
+    "sizes": "128x128"
+  }, {
+    "src": "https://i.imgur.com/bUtaCad.jpg",
+    "type": "image/png",
+    "sizes": "152x152"
+  }, {
+    "src": "https://i.imgur.com/f7pwqGL.jpg",
+    "type": "image/png",
+    "sizes": "144x144"
+  }, {
+    "src": "https://i.imgur.com/KDJXhWE.jpg",
+    "type": "image/png",
+    "sizes": "192x192"
+  }]
+}
