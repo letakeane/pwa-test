@@ -3,9 +3,10 @@ this.addEventListener('install', event => {
     caches.open('assets-v1').then(cache => {
       return cache.addAll([
         '/',
-        '/server.js',
+        '/index.html',
         '/index.css',
-        '/lib/shake.js'
+        '/lib/shake.js',
+        '/index.js'
       ])
     })
   );
