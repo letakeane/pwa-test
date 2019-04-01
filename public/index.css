@@ -27,6 +27,7 @@ p {
   border-left: solid 75px transparent;
   border-right: solid 75px transparent;
   margin: auto;
+  margin-top: 30vh;
 }
 
 @media screen and (max-width: 900px) {
